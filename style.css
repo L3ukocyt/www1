@@ -1,0 +1,10 @@
+*{
+    background-color: purple;
+}
+
+p{
+    background-color: yellow;
+    color: black;
+    width: 200px;
+    height: 200px;
+}
